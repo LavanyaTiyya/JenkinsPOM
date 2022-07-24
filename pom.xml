@@ -115,7 +115,12 @@
 			<artifactId>aws-java-sdk-ses</artifactId>
 			<version>1.12.53</version>
 		</dependency>
-
+		
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.22</version>
+		</dependency>
 
 	</dependencies>
 
